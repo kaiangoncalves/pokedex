@@ -2,25 +2,18 @@
 
 Projeto desenvolvido para o desafio da Blinctek Academy utilizando framework Flutter.
 
-## Screenshots
+## Como executar o projeto
 
-![screenshot](image1.png)
+- Ter o [Flutter](https://flutter.dev/docs/get-started/install) instalado na sua máquina
+- Ter algum editor de códigos ou IDE como o [Android Studio](https://developer.android.com/studio) ou [Intellij Idea](https://www.jetbrains.com/pt-br/idea/download/). 
 
-## Video Presentation
-
-[Visit video presentation](https://www.loom.com/share/e320d7ad218b484cbda74e6257d39bc3)
-
-## Como usar
-
-- A list of first 150 pokemon that appeared in the show.
-- You can see the list of the pokemon by filtering them and searching with text
-- When a pokemon is clicked you can see the details of the pokemon along with the evolution
-
-- You can navigate back to the home page by clicking on the logo or on the buttons
-- Design is partially responsive although not completely optimized for smartphones.
+Caso opte por IDEs como as duas sugeridas acima, o processo de execução do aplicativo funcionará através de um botão de play na parte superior que ambas dispõem. Caso escolha rodar o projeto via linha de comandos, utilize o comando `flutter run`. Lembre-se de antes de executar o comando de navegar até a pasta do projeto antes. 
 
 ## Comentários Finais
 
-- Filter by Types
+- Resolvi desenvolver o projeto no framework flutter já que o foco do treinamento será nele. Consegui obter um bom aprendizado na criação deste projeto. Tive vários desafios na criação por está lidando com uma nova tecnologia que tinha somente conhecimento prévio, mas com
+a ajuda de alguns vídeos no YouTube e também pesquisas no Google consegui pensar em alternativas para solucionar os erros e dúvidas que tive no caminho.
 
-- Search by pokemon name.
+# Screenshots
+
+![screenshot](image1.png)
