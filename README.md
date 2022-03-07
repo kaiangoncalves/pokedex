@@ -12,9 +12,9 @@ Caso opte por IDEs como as duas sugeridas acima, o processo de execução do apl
 ## Comentários Finais
 
 - Resolvi desenvolver o projeto no framework flutter já que o foco do treinamento será nele. Tive vários desafios na criação por está lidando com uma nova tecnologia que tinha somente conhecimento prévio. Desse modo, foi realmente um bom desafio para mim desenvolver este projeto e que consequentemente me rendeu ótimos aprendizados. Enfim, com
-a ajuda de alguns vídeos no YouTube e também pesquisas no Google consegui idealizar alternativas para solucionar os erros e dúvidas que tive no caminho.
+a ajuda de alguns vídeos no YouTube, pesquisas no Google e a documentação do próprio Flutter consegui idealizar alternativas para solucionar os erros e dúvidas que tive no caminho.
 
-- A aplicação contém algumas opções incompletas que irei adicionar em breve. Devido o prazo de entrega não consegui finalizar todas as solicitações a tempo.
+- A aplicação contém algumas opções incompletas que pretendo finalizar em breve. Devido o prazo de entrega não consegui finalizar todas as solicitações a tempo, mas fiz o máximo que consegui.
 
 # Screenshots
 
